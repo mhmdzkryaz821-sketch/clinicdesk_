@@ -1,4 +1,4 @@
-ClinicDesk System 
+ClinicDesk System
 نظام إدارة عيادات متكامل ومؤمن تم تطويره باستخدام PHP و MySQL. يوفر النظام تجربة سلسة للأطباء، المرضى، ومديري النظام.
 
 المميزات الرئيسية
@@ -17,4 +17,13 @@ Backend: PHP (OOP)
 
 Database: MySQL
 
-Frontend: HTML5, CSS3, Bootstrap 4, JavaScript (Fetch API
+Frontend: HTML5, CSS3, Bootstrap 4, JavaScript (Fetch API(
+
+
+
+
+
+\-----------------------------GitHub Link------------------------------------
+
+\[ClinicDesk Repository](https://github.com/mhmdzkryaz821-sketch/clinicdesk\_)
+
